@@ -296,3 +296,7 @@ footer {
         display: none !important;
     }
 }
+.qtd-number {
+  color: #c77427;       /* green example */
+  font-weight: 700;     /* optional: make it stand out */
+}
